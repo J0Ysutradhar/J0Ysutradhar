@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack
 
 🎓 Currently im college student
 
-💻 Proficient in Python, HTML, CSS, and always eager to dive into new technologies.
+💻 Proficient in Python and always eager to dive into new technologies.
 
 🌱 Enthusiastic about learning and growing as a developer.
 
