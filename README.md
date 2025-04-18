@@ -2,7 +2,7 @@
 # Hi there, I'm Joy Sutradhar! 👋
 
 
-Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack for coding and a love for creating impactful projects. I specialize in Python, HTML, and CSS, and I'm constantly exploring new technologies to expand my skill set.
+Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack for coding and a love for creating impactful projects. I specialize in Python, Ai, LLMs and I'm constantly exploring new technologies to expand my skill set.
 
 
 ## 🚀 About Me
@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack
 
 
 ## 🛠 Skills
-Python, HTML, CSS, JS...
+Python, GenAi, LLMs, WebScarping, logic building, Problem solving...
