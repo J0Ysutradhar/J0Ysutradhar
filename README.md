@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack
 
 ## 🚀 About Me
 
-🎓 Currently im college student
+🎓 Currently im college student(Gvt. Bangabandhu College Dhaka)
 
 💻 Proficient in Python and always eager to dive into new technologies.
 
