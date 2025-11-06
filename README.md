@@ -31,3 +31,12 @@ Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack
 
 ## 🛠 Skills
 Python, GenAi, LLMs, WebScarping, logic building, Problem solving...
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
