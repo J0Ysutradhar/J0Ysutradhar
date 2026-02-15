@@ -2,8 +2,7 @@
 # Hi there, I'm Joy Sutradhar! 👋
 
 
-Welcome to my GitHub profile! I'm Joy, a passionate college student with a knack for coding and a love for creating impactful projects. I specialize in Python, Ai, LLMs and I'm constantly exploring new technologies to expand my skill set.
-
+### Automation Engineer | Software Developer | CEO of MetaXsouL | Python Developer | Helping Businesses Save Time with Smart Automations
 
 ## 🚀 About Me
 
