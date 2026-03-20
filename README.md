@@ -17,7 +17,7 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 ⌖ **Location** &nbsp; Dhaka, Bangladesh <br/>
 ⌗ **Experience** &nbsp; CEO of METASOUL Dhaka <br/>
 ◎ **Education** &nbsp; Computer Science <br/>
-⟳ **Learning** &nbsp; Blockchaing, Webtech, Native system
+⟳ **Learning** &nbsp; Blockchain, Webtech, Native system
 
 ---
 
