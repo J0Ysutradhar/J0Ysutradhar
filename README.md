@@ -1,30 +1,123 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=240&section=header&text=Joy%20Sutradhar&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Automation%20Engineer%7CSoftware%20Developer%7CCEO%20of%20MetaXsouL%7CPython%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
-# Hi there, I'm Joy Sutradhar! 👋
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0ysutradhar/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/joy_sutrdhar) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joysutradharpc@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](http://joysutradhar.pro.bd/) ![Profile Views](https://komarev.com/ghpvc/?username=J0Ysutradhar&color=14b8a6&style=flat-square)
 
-### Automation Engineer | Software Developer | CEO of MetaXsouL | Python Developer | Helping Businesses Save Time with Smart Automations
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) [![Building · PagePilot](https://img.shields.io/badge/Building%20%E2%86%92%20PagePilot-6366f1?style=flat-square&logo=github&logoColor=white)](https://pagepilot.metaxsoul.store/) ![Dhaka . UTC 6+](https://img.shields.io/badge/Dhaka%20.%20UTC%206%2B-333?style=flat-square)
 
-## 🚀 About Me
+</div>
 
-💻 Proficient in Python and always eager to dive into new technologies.
+### About
 
-🌱 Enthusiastic about learning and growing as a developer.
+I’m Joy Sutradhar, a software engineer and automation specialist passionate about helping businesses save time, cut costs, and scale smarter with technology.
 
-🎨 Enjoy blending creativity with code to create captivating user experiences.
+⌖ **Location** &nbsp; Dhaka, Bangladesh <br/>
+⌗ **Experience** &nbsp; CEO of METASOUL Dhaka <br/>
+◎ **Education** &nbsp; Computer Science <br/>
+⟳ **Learning** &nbsp; Blockchaing, Webtech, Native system
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joysutradhar.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0ysutradhar/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/im_js_joy)
-[![Resume](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://drive.google.com/file/d/1nfGsg4JVG3P5tq06bGVn8W6VGw-Gpm_m/view?usp=sharing)
+---
 
+### Stack
 
-## Roadmap
+**Languages**
 
-- Learning the core of tech
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Languages"/>
 
-- Developping Ai
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Frontend"/>
 
-## 🛠 Skills
-Python, GenAi, LLMs, WebScarping, logic building, Automations, Ai agents,  Problem solving...
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,redis&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,azure,git,linux,vscode,nginx,githubactions&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=opencv,numpy&theme=dark" alt="AI / ML"/>
+
+---
+
+### Languages
+
+🇬🇧 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🌐 **Hindi** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
+🌐 **Bangla** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=J0Ysutradhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0Ysutradhar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=J0Ysutradhar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=J0Ysutradhar&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
+
+</div>
+
+---
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J0Ysutradhar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+
+</div>
+
+> ⚠️ Requires [Novatorem](https://github.com/novatorem/novatorem) setup
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0Ysutradhar/J0Ysutradhar/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/J0Ysutradhar/J0Ysutradhar/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> ⚠️ Requires GitHub Actions setup
+
+---
+
+<div align="center">
+
+> *"Think and Execute"*
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/J0Ysutradhar">github.com/J0Ysutradhar</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%"/>
+
+</div>
