@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=240&section=header&text=Joy%20Sutradhar&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Automation%20Engineer%7CSoftware%20Developer%7CCEO%20of%20MetaXsouL%7CPython%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=240&section=header&text=Joy%20Sutradhar&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Automation%20Engineer%7CSoftware%20Developer%7CCEO%20of%20MetaXsouL%7CPython%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0ysutradhar/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/joy_sutrdhar) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joysutradharpc@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](http://joysutradhar.pro.bd/) ![Profile Views](https://komarev.com/ghpvc/?username=J0Ysutradhar&color=14b8a6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j0ysutradhar/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/joy_sutrdhar) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joysutradharpc@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](http://joysutradhar.pro.bd/) ![Profile Views](https://komarev.com/ghpvc/?username=J0Ysutradhar&color=f97316&style=flat-square)
 
 ![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) [![Building · PagePilot](https://img.shields.io/badge/Building%20%E2%86%92%20PagePilot-6366f1?style=flat-square&logo=github&logoColor=white)](https://pagepilot.metaxsoul.store/) ![Dhaka . UTC 6+](https://img.shields.io/badge/Dhaka%20.%20UTC%206%2B-333?style=flat-square)
 
@@ -57,9 +57,9 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=J0Ysutradhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0Ysutradhar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=J0Ysutradhar&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0Ysutradhar&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=J0Ysutradhar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=J0Ysutradhar&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,34 +75,7 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J0Ysutradhar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-> ⚠️ Requires [Novatorem](https://github.com/novatorem/novatorem) setup
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0Ysutradhar/J0Ysutradhar/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/J0Ysutradhar/J0Ysutradhar/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> ⚠️ Requires GitHub Actions setup
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J0Ysutradhar&theme=merko&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -116,8 +89,6 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/J0Ysutradhar">github.com/J0Ysutradhar</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=120&section=footer" width="100%"/>
 
 </div>
