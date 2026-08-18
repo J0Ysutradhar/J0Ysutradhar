@@ -90,5 +90,6 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=120&section=footer" width="100%"/>
+--- CV
 https://drive.google.com/file/d/1ImwP9Sd-94d6pSrtzYIBW4FY4YRQAn9r/view?usp=sharing
 </div>
