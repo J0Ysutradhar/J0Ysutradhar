@@ -63,33 +63,5 @@ I’m Joy Sutradhar, a software engineer and automation specialist passionate ab
 
 </div>
 
-### Trophies
 
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=J0Ysutradhar&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
-
-</div>
-
----
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J0Ysutradhar&theme=merko&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
-> *"Think and Execute"*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=120&section=footer" width="100%"/>
---- CV
-https://drive.google.com/file/d/1ImwP9Sd-94d6pSrtzYIBW4FY4YRQAn9r/view?usp=sharing
 </div>
